@@ -2,7 +2,7 @@
 
 > This is a fork of [Versions](https://plugins.gitbook.com/plugin/versions) slightly modified
 
-> Install: add `"gitbook-plugin-theme-vuejs": "git+https://github.com/kabootit/gitbook-plugin-versions.git"` to a `package.json` "dependencies" object.
+> Install: add `"gitbook-plugin-versions": "git+https://github.com/kabootit/gitbook-plugin-versions.git"` to a `package.json` "dependencies" object.
 
 Display a `<select>` with other versions of your gitbook.
 
